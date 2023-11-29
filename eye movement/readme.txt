@@ -1,0 +1,1 @@
+EMMS( eye movement monitoring system) is a sample prototype which shows that how the command on some device can be controlled by the number of blinks done by the user, it ensures that the patient does not have to make extra effort for some sort of required movement.
